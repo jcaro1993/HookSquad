@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(14, 13, 13);
+}
+
+body {
+    background-color: rgb(170, 162, 162);
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(34, 32, 32);
+    color: rgb(214, 215, 226);
+    text-align: center;
+}
